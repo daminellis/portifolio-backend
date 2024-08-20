@@ -1,4 +1,4 @@
-
+package org.example;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -14,15 +14,15 @@ public class Main {
         /* medieval e drama */
 
         Scanner leitor = new Scanner(System.in);
-        
+
         System.out.println("Qual ambientação você prefere?\n1 - Scifi\n2 - Medieval");
-        int primeiraEscolha = Integer.parseInt(leitor.nextLine());        
+        int primeiraEscolha = Integer.parseInt(leitor.nextLine());
 
         System.out.println("Qual gênero você prefere?\n1 - Comédia\n2 - Drama");
         int segundaEscolha = Integer.parseInt(leitor.nextLine());
 
         String[] filmes = {};
-        
+
         if (primeiraEscolha == 1 && segundaEscolha == 1) {
             filmes = mix1;
         } else if (primeiraEscolha == 1 && segundaEscolha == 2) {
