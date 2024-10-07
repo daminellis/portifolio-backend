@@ -14,8 +14,8 @@ Responda pelo menos uma das questões abaixo sobre os tópicos apresentados pelo
 
 * Meirylene Avelino reforçou a importância da cultura de segurança no dia a dia de todas as pessoas como forma de evitar golpes de engenharia social. Elabore pelo menos uma técnica empregada numa API Web que pode evitar com que usuários sejam vítimas de golpes de engenharia social.
 
-R: Uma api web muito utilizada para fazer esse tipo de segurança ao usuario, é o (urlvoid)[https://www.urlvoid.com/].
+R: Uma api web muito utilizada para fazer esse tipo de segurança ao usuario, é o [urlvoid](https://www.urlvoid.com/).
 Este webapp verifica a reputação do link, para saber se há algum software malicioso ou coisas do genero no link provido, com ele você pode ter certeza que
 os links acessados sao realmente confiaveis.
-Este é outro site que confere utilizando IA para saber se o link é confiavel ou não.(websec)[https://www.immuniweb.com/websec/]
+Este é outro site que confere utilizando IA para saber se o link é confiavel ou não.[websec](https://www.immuniweb.com/websec/)
 
